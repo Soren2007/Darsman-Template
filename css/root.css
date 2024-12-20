@@ -1,0 +1,72 @@
+:root{
+    --body_bg:#F5F5F5;
+
+    /* Tehme colors */
+    --brand_primary_color: #3570f4;
+    --brand_secondary_color: #f4b935;
+    --brand_ligth_color: #ffffff;
+    --brand_dark_color: #242424;
+
+    --brand_success_color: #13ce66;
+    --brand_danger_color: #ff4949;
+    --brand_warning_color: #ffc543;
+    --brand_info_color: #7ea3f8;
+    /* Tehme colors */
+    
+    /* Monochromatic colors */
+    --monochromatic_color_1: #0b48d1;
+    --monochromatic_color_2: #0d52e9;
+    --monochromatic_color_3: #1d5ff3;
+    --monochromatic_color_4: #3570f4;
+    --monochromatic_color_5: #4d81f5;
+    --monochromatic_color_6: #6592f7;
+    --monochromatic_color_7: #7ea3f8;
+    /* Monochromatic colors */
+    
+    /* Gray colors */
+    --gray_color_1: #f9f9f9;
+    --gray_color_2: #f4f4f4;
+    --gray_color_3: #e9e9e9;
+    --gray_color_4: #dedede;
+    --gray_color_5: #c8c8c8;
+    --gray_color_6: #a7a7a7;
+    --gray_color_7: #909090;
+    --gray_color_8: #747474;
+    --gray_color_9: #575757;
+    --gray_color_10: #484848;
+    --gray_color_11: #2b2b2b;
+    --gray_color_12: #6a6a6a;
+    --gray_color_13: #535353;
+    --gray_color_14: #848484;
+    --gray_color_15: #202020;
+    --gray_color_16: #E1E1E1;
+    /* Gray colors */
+
+    /* cards */
+    --card_m3_img_n4_bg:#3CCC8F;
+    --card_m3_img_n3_bg:#D86969;
+    --card_m3_img_n2_bg:#EBCA26;
+    /* cards */
+
+    /* texts */
+    --text_free_fg:#F24343;
+    /* texts */
+    /* stars */
+    --star_bg: #FFBC11;
+    /* stars */
+
+
+    /* faq */
+    --faq_border: var(--gray_color_16);
+    --faq_icon: #ABABAB;
+    /* faq */
+
+    /* alert */
+    --alert_bg: #F5F8FE;
+    /* alert */
+
+
+    /* btn */
+    --btn_m7_bg: #F54242;
+    /* btn */
+}
